@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salinda Kumara</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
 ---
@@ -9,6 +10,14 @@
 - 📫 How to reach me **salindakumara02@gmail.com**
 
 - ⚡ Fun fact **Call me as Salu**
+---
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Salinda-Kumara&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Salinda-Kumara)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Salinda-Kumara&theme=material-palenight)](https://github.com/Salinda-Kumara)
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
