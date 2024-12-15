@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Call me as Salu**
 ---
-<div align="center">
+<div align="center"> 
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Salinda-Kumara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
